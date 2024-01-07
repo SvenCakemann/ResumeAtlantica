@@ -1,0 +1,9 @@
+name: Pause & Resume in Atlantica
+originalAuthor: Sven Cakemann
+game: kh2
+description: Restores functionality to the song minigames in Atlantica that allows you to pause and continue, rather than forcing a reset. 
+assets:
+- name: 14mission.bar
+  method: copy
+  source:
+  - name: 14mission.bar
